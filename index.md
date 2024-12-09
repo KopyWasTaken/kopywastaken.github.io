@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Do you actually believe things if they're not written down?
