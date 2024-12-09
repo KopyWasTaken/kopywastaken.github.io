@@ -2,8 +2,10 @@
 Personal static blog / website
 
 ## Installation
-Use `rbenv`
+Use `rbenv` to install ruby. Use homebrew to install if you can, `brew install rbenv`
 
-Follow the github pages site instructions. 
+After that, all you really have to do is `gem install jekyll bundler` to install the dependency manager and jekyll.
 
-You should be good after that.
+Finally, `bundle exec jekyll serve --livereload` and you should be all set.
+
+Follow the github pages site instructions https://pages.github.com if you need more help

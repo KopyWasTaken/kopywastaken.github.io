@@ -3,6 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-# About 
-## About
-### Aboot
+Preferring to be discovered through conversation, I resist self-definition and categorization. It's more fun this way :)
