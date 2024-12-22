@@ -1,6 +1,6 @@
 ---
 layout: page
-tite: Resume
+title: Resume
 permalink: /resume
 ---
 Last updated September 2024 
