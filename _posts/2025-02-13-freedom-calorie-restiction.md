@@ -2,7 +2,7 @@
 layout: post
 title: The Freedom of Calorie Restriction
 date: 2025-02-15 16:00:00 -0400
-tags: blog diet health
+tags: blog diet health mostly-baked
 ---
 
 Recently I have been losing weight. After some time of being over weight, and ignorant to just how overweight I was, I decided it was time to get my eating in order. At the time of writing this, I'm down about 7lbs, and have about 30 more to go. It's been going pretty well actually, and I haven't felt physically better than I do now in quite some time. 
