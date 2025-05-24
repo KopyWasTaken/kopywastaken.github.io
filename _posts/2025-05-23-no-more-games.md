@@ -2,7 +2,6 @@
 layout: post
 title:  "No More Games"
 date:   2025-05-23 20:21:56 -0400
-categories: life meaning focus
 ---
 I can't keep playing video games. They're too fun, and they take up way too much
 of my time and focus. They act as a substitute for accomplishment and social
