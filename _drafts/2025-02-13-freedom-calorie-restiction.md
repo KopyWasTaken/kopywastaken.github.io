@@ -5,16 +5,45 @@ date: 2025-02-15 16:00:00 -0400
 tags: blog diet health mostly-baked
 ---
 
-Recently I have been losing weight. After some time of being over weight, and ignorant to just how overweight I was, I decided it was time to get my eating in order. At the time of writing this, I'm down about 7lbs, and have about 30 more to go. It's been going pretty well actually, and I haven't felt physically better than I do now in quite some time. 
+Recently I have been losing weight. After some time of being over weight, and
+ignorant to just how overweight I was, I decided it was time to get my eating
+in order. At the time of writing this, I'm down about 7lbs, and have about 30
+more to go. It's been going pretty well actually, and I haven't felt physically
+better than I do now in quite some time. 
 
-I have done this whole weight loss thing once before, back in 2019, I went from 215lbs to 175lbs in about 3.5 months. That's an astonishing rate of ~4lbs/week of weight loss. During that time, I pretty much always felt pretty tired, as I was a full-time college student who was working out every day on top of preseason baseball practices. My diet of choice was a ketogenic diet, which worked really well (in terms of total weight lost), but didn't feel the best. I had a calorie limit of 1854 kCal / day, with a protein goal of 116g and a fat goal of 144g. Carbs had a hard limit of 23g / day. I also was clocking in around ~20k steps / day if I had to guess, since I had to walk to all of my classes throughout the day, walk back to the dorm, walk to the gym, dining hall, etc. To get me through my workouts, I'd walk to the gym and dry scoop some Mesomorph pre-workout AKA straight rocket fuel.
+I have done this whole weight loss thing once before, back in 2019, I went from
+215lbs to 175lbs in about 3.5 months. That's an astonishing rate of ~4lbs/week
+of weight loss. During that time, I pretty much always felt pretty tired, as I
+was a full-time college student who was working out every day on top of
+preseason baseball practices. My diet of choice was a ketogenic diet, which
+worked really well (in terms of total weight lost), but didn't feel the best. I
+had a calorie limit of 1854 kCal / day, with a protein goal of 116g and a fat
+goal of 144g. Carbs had a hard limit of 23g / day. I also was clocking in
+around ~20k steps / day if I had to guess, since I had to walk to all of my
+classes throughout the day, walk back to the dorm, walk to the gym, dining
+hall, etc. To get me through my workouts, I'd walk to the gym and dry scoop
+some Mesomorph pre-workout AKA straight rocket fuel.
 ![A scoop of this could get me through tough workouts even in a ~2000 cal deficit | 400x400](https://cdn11.bigcommerce.com/s-xg7f0tentq/images/stencil/1280w/attribute_rule_images/42_source_1711755187.jpg){: width="250",style="display:block; margin-left:auto; margin-right:auto;" }
 
 Years later I got some sharp pains in the left side of my chest, and I think said rocket fuel is to blame. I digress. The weight loss was quick and unmaintainable, but that didn't matter because it happened so fast that I didn't have to maintain it in the long run. All was good! I maintained this approximate size for about a year and a half. 
 
 Then covid happened! I was sent home to finish the last 2 years of school at a desk in my bedroom, 1200 miles away from the school I attended. My steps basically went to 0, I started playing a ton of video games, and people in my area were getting really upset about masks. But that wasn't the root of my subsequent weight gain (spoiler). What really got me was my slow descent into mental illness through an addiction to League of Legends. My friends and I had started playing after classes almost every day, and I subsequently started watching Twitch streams to see how higher-level players would play in the hopes I would get better at the game (I didn't. Here's my [op.gg](https://www.op.gg/summoners/na/KidKopy-7183)). After some time, I stumbled across loltyler1, a jocky and absolutely ripped LoL streamer [who's apparently good at everything he does](https://www.reddit.com/r/chess/comments/1clyxmy/tyler1_reaches_1900_chesscom_rating/). He was ranting on stream about how to "get big", and he basically said you have to go to the gym and eat a bunch of food AKA "eat big, get big". 
 
-I took that stranger's advice straight to heart, and started lifting 6 days / week (basic PPL split) for *after checking notes writing this post* 6ish months (? felt longer to be honest) and got up to a 405 deadlift, took some time off, and then lifted for another year in the gym consistently, mostly doing bodybuilding and powerlifting lifts. During this time, I'd went from about ~180lbs to about 210lbs. How, you might ask? First thing is that I wasn't super lean to begin with, having another ~20lbs to lose during the first bout of weight loss. Secondly, I would come home and eat 1lb ground turkey, 1 cup (measured dry) of white rice, an assload of sour cream and cheese, with hotsauce pretty much every day after the gym. That was in addition to all of the other food I was eating throughout the day. And finally, I was probably getting > 5k steps per day. So these three factors basically turned me into a blimp. Granted, I was somewhat strong, with a 405 deadlift max, 315lbx4 squat max, 285lb bench max. But those numbers can (and should for that matter) be reached at a body weight far below what I was at.
+I took that stranger's advice straight to heart, and started lifting 6 days /
+week (basic PPL split) for *after checking notes writing this post* 6ish months
+(? felt longer to be honest) and got up to a 405 deadlift, took some time off,
+and then lifted for another year in the gym consistently, mostly doing
+bodybuilding and powerlifting lifts. During this time, I'd went from about
+~180lbs to about 210lbs. How, you might ask? First thing is that I wasn't super
+lean to begin with, having another ~20lbs to lose during the first bout of
+weight loss. Secondly, I would come home and eat 1lb ground turkey, 1 cup
+(measured dry) of white rice, an assload of sour cream and cheese, with
+hotsauce pretty much every day after the gym. That was in addition to all of
+the other food I was eating throughout the day. And finally, I was probably
+getting > 5k steps per day. So these three factors basically turned me into a
+blimp. Granted, I was somewhat strong, with a 405 deadlift max, 315lbx4 squat
+max, 285lb bench max. But those numbers can (and should for that matter) be
+reached at a body weight far below what I was at.
 
 Since then, I've pretty consistently worked out for the last 4 years. Having moved across the country, I found a new gym and went until it closed down unexpectedly. After that I bought myself some kettlebells and have been pretty consistent with them for the last few years. I find kettlebells to have many upsides, and very few downsides, but the kettlebell training modality deserves its own blog post. I've also dabbled in running, having ran the Philly 8k in Nov 2022 and Philly 1/2 Marathon in 2023. I also picked up a very good walking habit in 2023, having walked (with my dog) around ![Fresh Pond in Cambridge, MA](https://maps.app.goo.gl/UKGuj6G8gayY1v3H8) close to 330 times I'd estimate.
 
