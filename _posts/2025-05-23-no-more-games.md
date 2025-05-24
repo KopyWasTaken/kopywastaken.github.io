@@ -16,8 +16,8 @@ Yesterday was one of those days. It rained all day, and the first thing that I d
 when I woke up (after making coffee and walking the dog) after seeing the weather
 was hop on my computer and boot up Doom: Eternal. Besides ripping a line of fent-laced
 coke and being put into a straight-jacket, I can't think of a fucking worse way to 
-start a day. I'm 26, in my physical prime (somewhat), and I squander this time (that 
-will be gone before I know it) by playing a fucking video game for like 6 hours. 
+start a day. I'm 26, in my physical prime, and I squander this time 
+by playing a fucking video game for like 6 hours. 
 I will lose my sanity if I let this continue, because it's been a problem for a while 
 and I haven't taken the appropriate steps to address it. I'll also lose my health, 
 my relationship will be worse off, and life will pass me by right before my eyes.
